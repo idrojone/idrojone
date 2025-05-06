@@ -88,4 +88,3 @@
 
   </div>
 
-  Credit: [idrojone](https://github.com/idrojone)
