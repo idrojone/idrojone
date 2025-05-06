@@ -88,4 +88,4 @@
 
   </div>
 
-  Credit: [alfosan](https://github.com/idrojone)
+  Credit: [idrojone](https://github.com/idrojone)
