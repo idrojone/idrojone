@@ -81,3 +81,11 @@
 | IDE | Control de Versiones | Plataforma | Contenedor | IDE |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="40" height="40" target="_blank"/>](https://code.visualstudio.com/) <br> ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40" target="_blank"/>](https://git-scm.com/) <br> ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40" target="_blank"/>](https://github.com/) <br> ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" height="40" target="_blank"/>  <br> ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | [<img src="https://static-00.iconduck.com/assets.00/eclipse-icon-1024x959-y4dm3iv1.png" alt="Eclipse" width="40" height="40" target="_blank"/>](https://www.eclipse.org/) <br> ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) |
+
+ <div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=idrojone)
+
+  </div>
+
+  Credit: [alfosan](https://github.com/idrojone)
