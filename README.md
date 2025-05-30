@@ -44,7 +44,7 @@
 
 |BD NoSQL | Sistema BD |
 |:----------:|:----------:|
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/)  | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>](https://www.php.net/) |
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/)  | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="php" width="40" height="40"/>](https://www.php.net/) |
 |   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 
 ### 🎨 Frontend 
@@ -65,7 +65,7 @@
 
 | Arquitectura | Paradigma |
 |:----------:|:----------:|
-| [<img src="https://static.vecteezy.com/system/resources/previews/028/033/553/non_2x/oop-icon-free-vector.jpg" alt="oop" width="40" height="40"/>() |  [<img src="https://www.vervelogic.com/images/services/mvc-framework-development.png" alt="mvc" width="40" height="40"/>]()|
+| <img src="https://static.vecteezy.com/system/resources/previews/028/033/553/non_2x/oop-icon-free-vector.jpg" alt="oop" width="40" height="40"/> |  [<img src="https://www.vervelogic.com/images/services/mvc-framework-development.png" alt="mvc" width="40" height="40"/>]()|
 |  ![OOP](https://img.shields.io/badge/-OOP-4B32C3?style=for-the-badge) | ![MVC](https://img.shields.io/badge/-MVC-888888?style=for-the-badge) | 
 
 ### 💻 Sistemas operativos en los que soy competente:
