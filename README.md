@@ -35,25 +35,24 @@
 ## 🛠 Tecnologías y herramientas que he usado:
 
 ### 🔧 Backend :
-
 | Lenguaje | Lenguaje |
 |:----------:|:----------:|
 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>](https://www.oracle.com/java/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>](https://www.php.net/) |
-| ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+|  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  | ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) |
 
 ### 💾 Base de datos :
 
 |BD NoSQL | Sistema BD |
 |:----------:|:----------:|
 |  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>](https://www.mongodb.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/) |
-|  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+|   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 
-### 🎨 Frontend :
+### 🎨 Frontend 
 
 | Lenguaje | Biblioteca | Marcado | Marcado | 
 |:----------:|:----------:|:----------:|:----------:|
 |  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://www.javascript.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>](https://www.w3.org/Style/CSS/Overview.en.html) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>](https://html.spec.whatwg.org/) |
-|![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+|![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 
 <!-- ### 🎯 UI Frameworks :
 
@@ -62,21 +61,21 @@
 | [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>](https://tailwindcss.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com/) |
 | ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | -->
 
-### 📚 Bibliotecas, Gestores de paquetes y Metodologías :
+### Metodologías 
 
 | Arquitectura | Paradigma |
 |:----------:|:----------:|
 |[<img src="https://www.vervelogic.com/images/services/mvc-framework-development.png" alt="mvc" width="40" height="40"/>]() | [<img src="https://static.vecteezy.com/system/resources/previews/028/033/553/non_2x/oop-icon-free-vector.jpg" alt="oop" width="40" height="40"/>]() | [<img src="https://images.squarespace-cdn.com/content/v1/5a5977a7f43b55eff1588911/64459f4d-4880-421c-9c13-19b772e86b50/Todo-sobre-Scrum2.png" alt="scrum" width="40" height="40"/>](https://www.scrum.org/) |
 | ![MVC](https://img.shields.io/badge/-MVC-888888?style=for-the-badge) | ![OOP](https://img.shields.io/badge/-OOP-4B32C3?style=for-the-badge) | 
 
-## 💻 Sistemas operativos en los que soy competente:
+### 💻 Sistemas operativos en los que soy competente:
 
 | SO | SO |
 |:----------:|:----------:|
 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>](https://www.microsoft.com/windows) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/) | [<img src="https://simpleicons.org/icons/ubuntu.svg" alt="ubuntu" width="40" height="40"/>](https://ubuntu.com/) |
 | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | 
 
-## 👨‍💻 Otras herramientas y entornos que uso:
+### 👨‍💻 Otras herramientas y entornos que uso:
 
 | IDE | Control de Versiones | Plataforma | Contenedor | IDE |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
