@@ -63,7 +63,7 @@
 
 ### Metodologías 
 
-| Arquitectura | Paradigma |
+| Paradigm| Arquitectura |
 |:----------:|:----------:|
 | <img src="https://static.vecteezy.com/system/resources/previews/028/033/553/non_2x/oop-icon-free-vector.jpg" alt="oop" width="40" height="40"/> |  [<img src="https://www.vervelogic.com/images/services/mvc-framework-development.png" alt="mvc" width="40" height="40"/>]()|
 |  ![OOP](https://img.shields.io/badge/-OOP-4B32C3?style=for-the-badge) | ![MVC](https://img.shields.io/badge/-MVC-888888?style=for-the-badge) | 
