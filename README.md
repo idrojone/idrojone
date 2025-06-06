@@ -42,7 +42,7 @@
 
 ### 💾 Base de datos :
 
-|BD NoSQL | Sistema BD |
+| Sistema BD | BD NoSQL |
 |:----------:|:----------:|
 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/)  | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="php" width="40" height="40"/>](https://www.php.net/) |
 |   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
