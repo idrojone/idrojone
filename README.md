@@ -87,3 +87,4 @@
 
   </div>
 
+![Metrics](https://raw.githubusercontent.com/idrojone/idrojone/main/metrics.svg)
