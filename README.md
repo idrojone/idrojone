@@ -11,25 +11,26 @@
 
 <!--- stats & Trophy (start) -->
 <p align="center">
+    ![Metrics](/github-metrics.svg)
   <!--- stats (start) -->
-<table align="center">
+<!-- <table align="center">
 <tr border="none">
-<td width="50%" align="center">
+<td width="50%" align="center"> -->
   
   <!-- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JavierTomasTormo&theme=dark&show_icons=true&count_private=true" /> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=idrojone&show_icons=true&theme=dracula"/>
-  <br/>
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=idrojone&show_icons=true&theme=dracula"/>
+  <br/> -->
   <!-- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JavierTomasTormo&theme=dark&hide_border=false" /> -->
-</td>
+<!-- </td> -->
 
-<td width="50%" align="center">
+<!-- <td width="50%" align="center"> -->
 
   <!-- <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JavierTomasTormo&theme=dracula&hide_border=false&no-bg=true&no-frame=true&langs_count=20"/> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrojone&layout=donut&theme=dracula"/>
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrojone&layout=donut&theme=dracula"/> -->
   
-  </td>
+  <!-- </td>
 </tr>
-</table>
+</table> -->
 <!--- stats (end) -->
 
 ## 🛠 Tecnologías y herramientas que he usado:
@@ -86,5 +87,3 @@
   ![](https://komarev.com/ghpvc/?username=idrojone)
 
   </div>
-
-![Metrics](/github-metrics.svg)
