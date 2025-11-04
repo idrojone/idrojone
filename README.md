@@ -11,7 +11,8 @@
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-    ![Metrics](./github-metrics.svg)
+    <!-- ![Metrics](./github-metrics.svg) -->
+    <img src="./github-metrics.svg">
   <!--- stats (start) -->
 <!-- <table align="center">
 <tr border="none">
