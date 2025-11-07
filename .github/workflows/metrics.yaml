@@ -26,3 +26,5 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
+          plugin_languages_exclude: "HTML,CSS,SCSS"
+          
