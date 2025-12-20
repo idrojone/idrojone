@@ -127,10 +127,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/idrojone/idrojone/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="center">
     <img src="./github-metrics.svg">
 </p>
