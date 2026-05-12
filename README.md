@@ -41,7 +41,7 @@
 
 ###
 
-<p align="center">Bakcend</p>
+<p align="center">Backend</p>
 
 ###
 
@@ -111,7 +111,7 @@
 
 ###
 
-<p align="center">Ostras herramienta que utilizo</p>
+<p align="center">Otras herramientas que utilizo</p>
 
 ###
 
