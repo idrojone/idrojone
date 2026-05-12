@@ -59,7 +59,7 @@
 
 ###
 
-<p align="center">Base de datos</p>
+<p align="center">Bases de datos</p>
 
 ###
 
