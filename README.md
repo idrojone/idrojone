@@ -8,122 +8,54 @@
 
 ###
 
-<p align="left">Estudiante de segundo curso de Desarrollo Web con muchas ganas de aprender y crecer en el sector tecnológico. Me interesa tanto el desarrollo backend como frontend, y disfruto participando en proyectos donde pueda seguir formándome y adquiriendo experiencia. Me considero una persona responsable, resolutiva, curiosa y con facilidad para adaptarme a nuevos retos.</p>
+<p align="left">Graduado en Desarrollo de Aplicaciones Web (DAW) con mentalidad proactiva y una sólida base tanto en desarrollo Backend como Frontend. Cuento con experiencia combinando mi formación con prácticas nacionales e internacionales en España y Malta, trabajando en el diseño de interfaces, optimización de aplicaciones y desarrollo de módulos personalizados</p>
+
+<p>Me considero una persona responsable, resolutiva, curiosa y con gran facilidad para adaptarme a nuevos retos.</p>
+
+###
+
+<h2>🌐 Conéctate conmigo / Mis Sitios Web</h2>
+
+<p align="left">
+  <a href="mailto:jordivallspladaw@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jordivallspladaw%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.idrojone.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-idrojone.tech-0078D4?style=flat-square&logo=microsoftedge&logoColor=white" alt="Website" />
+  </a>
+</p>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQyMWNldWE0dTdpZWRzM21vaG1xdW9henN5N281ZGViODlseHpudCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QMHoU66sBXqqLqYvGO/giphy.gif"  />
+  <img height="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQyMWNldWE0dTdpZWRzM21vaG1xdW9henN5N281ZGViODlseHpudCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QMHoU66sBXqqLqYvGO/giphy.gif"  />
 </div>
 
 ###
 
-<p align="center">Lenguajes</p>
+<h2>🛠️ Tecnologías & Herramientas</h2>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-</div>
+### 💻 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,fastapi,java,ts,js,php,python" alt="Backend" />
+</p>
 
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,html,css" alt="Frontend" />
+</p>
 
-###
+### 🗄️ Bases de Datos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" alt="Bases de Datos" />
+</p>
 
-<p align="center">Backend</p>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-</div>
-
-###
-
-<p align="center">Bases de datos</p>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-</div>
-
-###
-
-<p align="center">Frontend</p>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-</div>
-
-###
-
-<p align="center">Sistemas operativos</p>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-</div>
-
-###
-
-<p align="center">Otras herramientas que utilizo</p>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-</div>
+### 🔧 Herramientas, Protocolos & Gestión
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,bash,powershell,linux,windows" alt="Herramientas y Sistemas" />
+</p>
 
 ###
 
